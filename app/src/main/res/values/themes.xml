@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SubmissionDIcoding" parent="Theme.Material3.DayNight">
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+
+    <style name="Theme.SubmissionDIcoding" parent="Base.Theme.SubmissionDIcoding" />
+</resources>
