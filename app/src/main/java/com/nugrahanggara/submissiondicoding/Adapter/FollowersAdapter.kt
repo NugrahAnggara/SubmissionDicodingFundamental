@@ -10,6 +10,7 @@ import com.bumptech.glide.Glide
 import com.nugrahanggara.submissiondicoding.Model.FollowersResponse
 import com.nugrahanggara.submissiondicoding.R
 
+
 class FollowersAdapter(private val dataFollowers : List<FollowersResponse>) : RecyclerView.Adapter<FollowersAdapter.MyViewHolder>()
 {
 
