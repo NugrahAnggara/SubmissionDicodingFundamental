@@ -11,6 +11,7 @@ import com.nugrahanggara.submissiondicoding.Model.ItemsItem
 import com.nugrahanggara.submissiondicoding.Model.ModelUserResponse
 import com.nugrahanggara.submissiondicoding.R
 
+
 class AdapterFavorite(private val list : List<ItemsItem>,private val listener : onClick) : RecyclerView.Adapter<AdapterFavorite.MyViewHolder>()
 {
 
